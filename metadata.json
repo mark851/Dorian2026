@@ -1,0 +1,6 @@
+{
+  "name": "Dora Fashions",
+  "description": "Realtime bead shop, bag beads catalog & owner admin panel with live domain hosting",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
