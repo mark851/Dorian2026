@@ -257,7 +257,6 @@ fun AdminConsole(
                 AdminTab.ORDERS to "🧾 Orders",
                 AdminTab.CUSTOMERS to "👥 Customers",
                 AdminTab.REVIEWS to "⭐ Reviews",
-                AdminTab.DOMAIN to "🌐 Live Host",
                 AdminTab.BANNERS to "📢 Banners"
             )
 

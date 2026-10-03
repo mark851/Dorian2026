@@ -155,18 +155,6 @@ fun StoreTopBar(
             }
         },
         actions = {
-            // Live Host Web Domain Button
-            IconButton(
-                onClick = { onNavigate(Screen.LiveDomain) },
-                modifier = Modifier.testTag("live_domain_button")
-            ) {
-                Icon(
-                    imageVector = Icons.Default.Language,
-                    contentDescription = "Live Web Domain & Host",
-                    tint = BeadBrown
-                )
-            }
-
             // Customer Account / Profile
             IconButton(
                 onClick = { onNavigate(Screen.Account) },
